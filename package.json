@@ -1,0 +1,21 @@
+{
+  "name": "attnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.27.2",
+    "coffee-script": "^1.12.3",
+    "electron": "^1.4.15",
+    "jquery": "^3.1.1",
+    "node-localstorage": "^1.3.0",
+    "selenium-webdriver": "^3.0.1"
+  }
+}
